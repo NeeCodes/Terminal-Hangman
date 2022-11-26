@@ -1,1 +1,1 @@
-# Hangman-C-
+# Hangman-CPP
